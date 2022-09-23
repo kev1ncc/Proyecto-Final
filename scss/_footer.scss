@@ -1,0 +1,18 @@
+footer{
+    margin-top: auto;
+}
+
+.footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.container ul li{
+    display: inline-block;
+    width: 0 5px;
+    margin: 50px;
+    bottom: 0;
+}
